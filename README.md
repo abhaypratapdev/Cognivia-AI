@@ -1,4 +1,4 @@
-# Congivia AI 🧠 
+# Congnivia AI 🧠 
 
 An AI-powered intelligent learning and document management platform that transforms your study materials into interactive learning experiences.
 
@@ -18,7 +18,7 @@ An AI-powered intelligent learning and document management platform that transfo
 ## 🏗️ Project Structure
 
 ```
-Congivia AI/
+Congnivia AI/
 â”œâ”€â”€ frontend/           # React 19 + Vite UI application
 â”œâ”€â”€ backend/            # Node.js/Express API server
 â”œâ”€â”€ ocr/                # Python OCR service
@@ -253,7 +253,7 @@ This project is licensed under a proprietary license. All rights reserved. See t
 
 ## 📞 Support
 
-For issues, questions, or suggestions regarding Congivia AI, please refer to the documentation in each module or contact the development team.
+For issues, questions, or suggestions regarding Congnivia AI, please refer to the documentation in each module or contact the development team.
 
 ## Future Enhancements
 
@@ -268,4 +268,4 @@ For issues, questions, or suggestions regarding Congivia AI, please refer to the
 
 ---
 
-**Congivia AI** - Empowering learners with AI-driven intelligence. ðŸš€
+**Congnivia AI** - Empowering learners with AI-driven intelligence.
